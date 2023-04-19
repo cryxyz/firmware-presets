@@ -44,6 +44,7 @@ set osd_crosshairs_pos = 377
 set osd_ah_sbar_pos = 346
 set osd_ah_pos = 218
 set osd_current_pos = 265
+set osd_rssi_dbm_pos = 3214
 set osd_mah_drawn_pos = 294
 set osd_wh_drawn_pos = 391
 set osd_motor_diag_pos = 234
