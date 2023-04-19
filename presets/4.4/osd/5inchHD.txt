@@ -1,10 +1,10 @@
-#$ TITLE: cryxyz's 5inch HD OSD 
+#$ TITLE: cryxyz - HD OSD 
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: O3, HD, OSD
 #$ AUTHOR: cryxyz
-#$ DESCRIPTION: pOSD by cryxyz
+#$ DESCRIPTION: My custom HD OSD for my 5 inch Quads. 
 
 set osd_units = METRIC
 set osd_warn_bitmask = 23551
@@ -30,7 +30,7 @@ set osd_vbat_pos = 355
 set osd_rssi_pos = 234
 set osd_link_quality_pos = 3182
 set osd_link_tx_power_pos = 88
-set osd_rssi_dbm_pos = 234
+set osd_rssi_dbm_pos = 3214
 set osd_rsnr_pos = 234
 set osd_tim_1_pos = 2674
 set osd_tim_2_pos = 234
@@ -96,7 +96,7 @@ set osd_aux_pos = 234
 set osd_sys_goggle_voltage_pos = 234
 set osd_sys_vtx_voltage_pos = 234
 set osd_sys_bitrate_pos = 234
-set osd_sys_delay_pos = 234
+set osd_sys_delay_pos = 2048
 set osd_sys_distance_pos = 234
 set osd_sys_lq_pos = 234
 set osd_sys_goggle_dvr_pos = 234
