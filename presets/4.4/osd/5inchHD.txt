@@ -6,6 +6,7 @@
 #$ AUTHOR: cryxyz
 #$ DESCRIPTION: My custom HD OSD for my 5 inch Quads. 
 
+set vcd_video_system = HD
 set osd_units = METRIC
 set osd_warn_bitmask = 23551
 set osd_rssi_alarm = 20
