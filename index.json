@@ -3622,13 +3622,13 @@
     },
     {
       "fullPath": "presets/4.4/modes/MamboModes.txt",
-      "hash": "03da32ccb01fa094f34518b4faa6830bcd04663019e252643dd93e22764a6a62",
-      "title": "cryxyz - Mambo AUX Modes",
+      "hash": "3619dfe1030b4ac87b27049b70b65b02fcf0ae794933681d1265a1e91ef395d1",
+      "title": "cryxyz - TBS Mambo AUX Modes",
       "firmware_version": [
         "4.4"
       ],
       "category": "MODES",
-      "status": "EXPERIMENTAL",
+      "status": "COMMUNITY",
       "keywords": [
         "tbs",
         "mambo",
