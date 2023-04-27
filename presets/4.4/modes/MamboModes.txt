@@ -1,8 +1,8 @@
-#$ TITLE: TBS Mambo crymodes
+#$ TITLE: cryxyz - Mambo AUX Modes
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: tbs, mambo, cry, cryxyz
+#$ KEYWORDS: tbs, mambo, cry, cryxyz, aux
 #$ AUTHOR: cryxyz
 
 
@@ -31,7 +31,6 @@ aux 19 0 0 900 900 0 0
 
 #$ OPTION END
 
------
 
 #$ OPTION BEGIN (CHECKED): GPS Rescue
 
@@ -39,7 +38,7 @@ aux 3 46 0 1875 2100 0 0
 
 #$ OPTION END
 
------
+
 
 #$ OPTION BEGIN (CHECKED): USER1 VTX POWER
 

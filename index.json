@@ -3622,8 +3622,8 @@
     },
     {
       "fullPath": "presets/4.4/modes/MamboModes.txt",
-      "hash": "485c5e67f3be16eef44e69f75e725799a9f1c1ee03d1d500686c3e0a07879184",
-      "title": "TBS Mambo crymodes",
+      "hash": "03da32ccb01fa094f34518b4faa6830bcd04663019e252643dd93e22764a6a62",
+      "title": "cryxyz - Mambo AUX Modes",
       "firmware_version": [
         "4.4"
       ],
@@ -3633,7 +3633,8 @@
         "tbs",
         "mambo",
         "cry",
-        "cryxyz"
+        "cryxyz",
+        "aux"
       ],
       "author": "cryxyz",
       "priority": 0
