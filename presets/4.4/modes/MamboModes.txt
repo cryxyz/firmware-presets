@@ -1,0 +1,48 @@
+#$ TITLE: TBS Mambo crymodes
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: tbs, mambo, cry, cryxyz
+#$ AUTHOR: cryxyz
+
+
+
+
+#$ OPTION BEGIN (CHECKED): Default
+
+aux 0 0 1 1875 2100 0 0
+aux 1 1 2 1825 2100 0 0
+aux 2 2 2 1300 1700 0 0
+aux 4 13 4 1700 2100 0 0
+aux 5 35 3 1900 2100 0 0
+aux 6 36 5 1775 2100 0 0
+aux 8 0 0 900 900 0 0
+aux 9 0 0 900 900 0 0
+aux 10 0 0 900 900 0 0
+aux 11 0 0 900 900 0 0
+aux 12 0 0 900 900 0 0
+aux 13 0 0 900 900 0 0
+aux 14 0 0 900 900 0 0
+aux 15 0 0 900 900 0 0
+aux 16 0 0 900 900 0 0
+aux 17 0 0 900 900 0 0
+aux 18 0 0 900 900 0 0
+aux 19 0 0 900 900 0 0
+
+#$ OPTION END
+
+-----
+
+#$ OPTION BEGIN (CHECKED): GPS Rescue
+
+aux 3 46 0 1875 2100 0 0
+
+#$ OPTION END
+
+-----
+
+#$ OPTION BEGIN (CHECKED): USER1 VTX POWER
+
+aux 7 40 1 900 2100 0 0
+
+#$ OPTION END

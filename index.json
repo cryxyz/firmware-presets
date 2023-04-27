@@ -276,6 +276,8 @@
       "control",
       "Crossfire",
       "CRSF",
+      "cry",
+      "cryxyz",
       "ctzsnooze",
       "CTZsoonze",
       "davide",
@@ -352,6 +354,7 @@
       "logging",
       "Long Range",
       "mamba",
+      "mambo",
       "mck",
       "meteor",
       "MinChan",
@@ -3616,6 +3619,24 @@
       ],
       "author": "sugarK",
       "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.4/modes/MamboModes.txt",
+      "hash": "485c5e67f3be16eef44e69f75e725799a9f1c1ee03d1d500686c3e0a07879184",
+      "title": "TBS Mambo crymodes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "tbs",
+        "mambo",
+        "cry",
+        "cryxyz"
+      ],
+      "author": "cryxyz",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/osd/5inchHD.txt",
